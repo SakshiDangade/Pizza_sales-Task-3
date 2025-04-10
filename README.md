@@ -7,7 +7,7 @@ This task contains SQL queries and views created to analyze a pizza sales datase
 - Views for daily and size-wise summaries
 - Indexing for query optimization
 - Subqueries
-- JOIN queries(INNER<LEFT,RIGHT,OUTER)
+- JOIN queries(INNER,LEFT,RIGHT,OUTER)
 
 ## Dataset
 Used a custom `pizza_sales.csv` dataset imported into MySQL.
